@@ -137,18 +137,12 @@ This project is for **educational and research purposes only**. It is not financ
 - **Monte Carlo Methods**: Glasserman, P. (2003). "Monte Carlo Methods in Financial Engineering."
 - **Technical Analysis**: Murphy, J.J. (1999). "Technical Analysis of the Financial Markets."
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Vonoa
+- LinkedIn: https://www.linkedin.com/in/aled-von-oppell-40b315289/
 
 ## ⭐ Show Your Support
 
 If you find this project helpful, please give it a ⭐️!
 
 ---
-
-*Developed with Python, scikit-learn, and a passion for quantitative finance.*
